@@ -31,7 +31,7 @@ By repeating this process, the attacker performs a **Binary Search**, narrowing 
 3.  **Result:** The `High` (or `Low`) bound converges on the plaintext $P$.
 
 ## 3. Python Exploit Example
-This script simulates the Oracle and performs the attack. It uses the `decimal` library to handle the floating-point division required for the binary search bounds.
+This script simulates the attack; it uses the `decimal` library to handle the floating-point division required for the binary search bounds.
 
 ```python
 import decimal
@@ -72,3 +72,4 @@ def perform_attack(N, e, c_target):
             upper_bound = mid
 
     return int(upper_bound)
+```
