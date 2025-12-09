@@ -4,6 +4,10 @@
 
 * **[CyberChef](https://gchq.github.io/CyberChef/)** - The "Swiss Army Knife" encryption, encoding, compression, and data analysis.
 
+* **[Hashes.com](https://hashes.com)** - Search engine for cracking and looking up hashes.
+
+* **[uuidtools.com](https://www.uuidtools.com/decode)** - Tools for generating, decoding, and validating UUIDs.
+
 * **[Aperisolve](https://aperisolve.fr/)** - Online platform that performs common steganography checks on images (Lsb, Exif, etc.).
 
 * **[OSINT Framework](https://osintframework.com/)** - A visual tree of free OSINT resources.
